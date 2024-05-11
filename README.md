@@ -1,4 +1,4 @@
-# 💫 Sobre me:
+# 💫 Sobre min:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luiz-marcelo-barbosa/)
 
 👨‍💻 Entusiasta da tecnologia e solucionador de problemas.<br>🎓 Formação em Sistemas de Informação.<br>💼 Experiência em .Net, Angular e SQL.<br>🌱 Paixão por aprendizado contínuo e crescimento pessoal.<br>🚀 3 anos de experiência em desenvolvimento de software.<br>💡 Conhecimento em Web API, SPA e Banco de Dados.<br>🤝 Colaborador ativo em projetos de código aberto.<br>🔓 Aberto a novos desafios e oportunidades de aprendizado.
